@@ -18,8 +18,7 @@
   },
   "homepage": "https://github.com/TomokiIchi/watchtest#readme",
   "dependencies": {
-    "noble": "^1.9.1",
-    "obniz-noble": "^2.2.0"
+    "@abandonware/noble": "^1.9.2-13"
   },
   "devDependencies": {
     "webpack": "^5.28.0",
